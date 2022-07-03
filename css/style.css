@@ -1573,4 +1573,17 @@ figure {
   opacity: 0;
 }
 
+legal-disclaimer p {
+  color: #cbcbcb;
+}
+
+.disclaimer-content {
+  background-color: #000000c9;
+}
+
+.disclaimer-content .heading-section {
+  color: #fff;
+  text-align: center;
+}
+
 /*# sourceMappingURL=style.css.map */
