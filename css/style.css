@@ -595,6 +595,7 @@ figure {
   -moz-border-radius: 4px;
   -ms-border-radius: 4px;
   border-radius: 4px;
+  height: 660px;
 }
 .services h3 a {
   color: #000;
@@ -705,6 +706,7 @@ figure {
 .fh5co-contact-info ul li.address:before {
   font-size: 30px;
   content: "\e9d1";
+  cursor: pointer;
 }
 .fh5co-contact-info ul li.phone:before {
   font-size: 23px;
